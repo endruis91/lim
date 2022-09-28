@@ -1,0 +1,84 @@
+
+*{
+  font-family: 'Lato', sans-serif;
+
+}
+body{
+  background-image: url(img/sfondo.jpg) ;
+   background-size: cover;
+ }
+
+.contenitore{
+   width: 900px ;
+    height: 650px ;
+     background-color: #00000070 ;
+     display:block; margin: auto;
+     border-radius: 18px;
+   }
+  .wrap{
+    padding: 20px 90px
+
+  }
+.imgBox{
+  width: 100%
+}
+header{
+  color : #00dd00 ;
+  text-align: center;
+ }
+
+#logolime{
+  height: 100px;
+  margin: 0 auto;
+ }
+
+.barraselezione{
+  background-color: limegreen
+  ; padding : 10px ;
+   width: 100%;
+   margin: auto;}
+
+
+h1{
+  margin-bottom: 5px
+}
+
+h2{
+  display: inline-block
+  ;margin-bottom: 5px
+}
+
+h5{
+  font-size: 10px;
+  margin : 1px
+}
+
+p{
+  display: inline-block;
+}
+
+main{
+  color: white
+}
+
+#barra1{
+  ;width: 250px ;
+   height : 20px ;
+    background-color: #F5B453 ;
+     margin:5px ;
+      border-radius: 2px
+    }
+#barra2{
+  width: 450px ;
+   height : 20px ;
+    background-color: limegreen ;
+     margin:5px ;
+      border-radius: 2px}
+
+#barra3{
+  width: 120px ;
+   height : 20px ;
+    background-color: #BE4141 ;
+     margin:5px ;
+      border-radius: 2px
+    }
